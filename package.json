@@ -1,0 +1,19 @@
+{
+  "name": "basic-backend",
+  "version": "1.0.0",
+  "description": "The Basic Backend by using nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit --detectOpenHandles --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinShih-689/basic-backend.git"
+  },
+  "author": "KevinShih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinShih-689/basic-backend/issues"
+  },
+  "homepage": "https://github.com/KevinShih-689/basic-backend#readme"
+}
