@@ -4,6 +4,7 @@
   "description": "The Basic Backend by using nodeJS",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon /src/app.js",
     "test": "jest --forceExit --detectOpenHandles --coverage --verbose"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KevinShih-689/basic-backend/issues"
   },
-  "homepage": "https://github.com/KevinShih-689/basic-backend#readme"
+  "homepage": "https://github.com/KevinShih-689/basic-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

@@ -51,6 +51,12 @@
 │   │   ├── security.ts
 │   │   ├── utils.ts
 │   │   └── validator.ts
+|   |
+|   ├── services
+|   |   └── access
+|   |       └── credential.js     
+|   |   
+|   |
 │   ├── routes
 │   │   ├── access
 │   │   │   ├── credential.ts
